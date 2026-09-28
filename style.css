@@ -7,7 +7,7 @@ body {
   background: rgb(185, 126, 224);
   color: rgb(45, 45, 45);
   font-family: Arial, sans-serif;
-background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NStGtQhZzYp7apmZ5GsRExTohbmkYnK2R-Hr3OAb7AL4X37xcVt_2es:https://static.wikia.nocookie.net/tfumux/images/9/9a/G1_Decepticon_Headquarters_Cybertron.JPG/revision/latest%3Fcb%3D20140616185057&s=10");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1wBJeSSiy9d39S6RwEYs3YmvJeb8Pe_Z-5E2xa9eamg&s=10");
 background-repeat: repeat-x;
 }
 
@@ -27,7 +27,7 @@ nav {
 h1 {
   display: flex;
   align-items: center;
-  color: rgb(10, 4, 4);
+  color: rgb(255, 184, 242);
   flex: 1;
   margin: 0;
 }
@@ -46,7 +46,7 @@ h1 {
 
 a {
   text-decoration: none;
-  color: #110b0b;
+  color: #ffbce3;
 }
 
 main {
