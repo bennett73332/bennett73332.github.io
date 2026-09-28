@@ -7,6 +7,8 @@ body {
   background: rgb(185, 126, 224);
   color: rgb(45, 45, 45);
   font-family: Arial, sans-serif;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NStGtQhZzYp7apmZ5GsRExTohbmkYnK2R-Hr3OAb7AL4X37xcVt_2es:https://static.wikia.nocookie.net/tfumux/images/9/9a/G1_Decepticon_Headquarters_Cybertron.JPG/revision/latest%3Fcb%3D20140616185057&s=10");
+background-repeat: repeat-x;
 }
 
 
@@ -86,6 +88,13 @@ h2, h3 {
 }
 
 #moreaboutme {
+ border: 4px rgb(35, 16, 16) ridge;
+ padding: 8px;
+ margin-top: 20px;
+ background-color: rgb(237, 190, 239);
+}
+
+#transforming {
  border: 4px rgb(35, 16, 16) ridge;
  padding: 8px;
  margin-top: 20px;
