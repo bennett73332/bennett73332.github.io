@@ -1,0 +1,9 @@
+#die {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(192, 118, 202); /* Feel free to customize */
+  background-image: url('https://th.bing.com/th/id/OIP.1m5dMG0-7UtKqXSb3M6CigHaHa?w=148&h=148&c=7&rs=1&qlt=90&o=6&dpr=1.5&pid=acf-sdl');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
